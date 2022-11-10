@@ -4,11 +4,10 @@ Human-Computer Interaction
 
 Contains 3 different bake-offs for IPM20-21 @ Técnico Lisboa
 
-This project was done in collaboration with:
+### Contributors
 
-```
-Francisco Oliveira ist196860
-Martim Correia ist197326
-
-```
-
+| Number | Name              | 
+|--------|-------------------|
+| 97281  | Allan Fernandes   |
+| 96860  | Francisco Oliveira|
+| 97326  | Martim Correia    |
