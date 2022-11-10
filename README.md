@@ -1,6 +1,5 @@
 
-# IPM20-21
-Human-Computer Interaction
+# Human-Computer Interaction
 
 Contains 3 different bake-offs for IPM20-21 @ Técnico Lisboa
 
